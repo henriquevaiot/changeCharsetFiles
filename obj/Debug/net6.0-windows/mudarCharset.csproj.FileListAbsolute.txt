@@ -1,0 +1,16 @@
+D:\tmp\changeCharset\mudarCharset\bin\Debug\net6.0-windows\mudarCharset.exe
+D:\tmp\changeCharset\mudarCharset\bin\Debug\net6.0-windows\mudarCharset.deps.json
+D:\tmp\changeCharset\mudarCharset\bin\Debug\net6.0-windows\mudarCharset.runtimeconfig.json
+D:\tmp\changeCharset\mudarCharset\bin\Debug\net6.0-windows\mudarCharset.dll
+D:\tmp\changeCharset\mudarCharset\bin\Debug\net6.0-windows\mudarCharset.pdb
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.Form1.resources
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.csproj.GenerateResource.cache
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.GeneratedMSBuildEditorConfig.editorconfig
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.AssemblyInfoInputs.cache
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.AssemblyInfo.cs
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.csproj.CoreCompileInputs.cache
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.dll
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\refint\mudarCharset.dll
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.pdb
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\mudarCharset.genruntimeconfig.cache
+D:\tmp\changeCharset\mudarCharset\obj\Debug\net6.0-windows\ref\mudarCharset.dll
